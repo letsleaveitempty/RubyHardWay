@@ -1,0 +1,10 @@
+def prompt()
+  print "> "
+end
+
+def start()
+  puts "Welcome to happy-hitchhiker!"
+  puts "Let"
+
+  
+end
